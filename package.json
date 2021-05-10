@@ -1,0 +1,20 @@
+{
+    "name": "dart-code-snippets",
+    "displayName": "Dart Code Snippets",
+    "description": "Code snippets for dart",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "dart",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
